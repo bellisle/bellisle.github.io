@@ -12,4 +12,3 @@ As a doctoral student in the Harvard-MIT Health Sciences and Technology Program 
 # Leadership & Outreach
 
 # CV
-#
