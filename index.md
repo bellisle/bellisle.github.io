@@ -6,7 +6,7 @@ As a doctoral student in the Harvard-MIT Health Sciences and Technology Program 
 
 
 <img src="/Images/Twitter.png" alt="Twitter:" width="20"/> [@rachbellisle](https://twitter.com/rachbellisle)           
-<img src="/Images/LinkedIn.png" alt="LinkedIn:" width="20"/>[rachbellisle](https://www.linkedin.com/in/rbellisle/)
+<img src="/Images/LinkedIn.png" alt="LinkedIn:" width="20"/>  [rachbellisle](https://www.linkedin.com/in/rbellisle/)
 
 
 # Research & Publications
