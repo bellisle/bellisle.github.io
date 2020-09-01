@@ -8,14 +8,12 @@ As a doctoral student in the Harvard-MIT Health Sciences and Technology Program 
 
 <div>
   <img style="vertical-align:middle" src="/Images/Twitter.png" alt="Twitter:" width="20"/> 
-  &nbsp; [@rachbellisle](https://twitter.com/rachbellisle) 
-  <span style="">Works.</span>    
+  &nbsp; [@rachbellisle](https://twitter.com/rachbellisle)  
 </div>
 
 <div>   
   <img style="vertical-align:middle" src="/Images/LinkedIn.png" alt="LinkedIn:" width="20"/> 
   &nbsp; [rachbellisle](https://www.linkedin.com/in/rbellisle/)
-  <span style="">Works.</span>  
 </div>
 
 # Research & Publications
