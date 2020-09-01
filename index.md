@@ -8,9 +8,8 @@ As a doctoral student in the Harvard-MIT Health Sciences and Technology Program 
 <br>
 <img style="vertical-align:middle" src="/Images/Twitter.png" alt="Twitter:" width="20"/> 
 &nbsp; [@rachbellisle](https://twitter.com/rachbellisle)  
-
 <img style="vertical-align:middle" src="/Images/LinkedIn.png" alt="LinkedIn:" width="20"/> 
-&nbsp; [rachbellisle](https://www.linkedin.com/in/rbellisle/)
+&nbsp; &nbsp; [rachbellisle](https://www.linkedin.com/in/rbellisle/)
 <br>
 # Research & Publications
 <br>
